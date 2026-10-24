@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this repository and the commit used."
+title: "Multilingual SEO Check"
+type: software
+authors:
+  - family-names: Ghaffari
+    given-names: Farshid
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/farshidghaffari/multilingual-seo-check"
+url: "https://github.com/farshidghaffari/multilingual-seo-check"

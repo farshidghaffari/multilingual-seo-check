@@ -1,0 +1,87 @@
+{
+  "tool_version": "0.1.0",
+  "pages": [
+    {
+      "url": "https://example.com/",
+      "requested_url": "https://example.com/",
+      "status": 200,
+      "title": "Demo en",
+      "lang": "en",
+      "canonicals": [
+        "https://example.com/"
+      ],
+      "alternates": [
+        {
+          "language": "en",
+          "url": "https://example.com/"
+        },
+        {
+          "language": "fa",
+          "url": "https://example.com/fa/"
+        }
+      ],
+      "robots": [],
+      "x_robots_tag": "",
+      "sha256": "e1c07898f1f0e0b2753b61681374317b29bfa9ac40a54121b033372f2c865f40",
+      "error": null
+    },
+    {
+      "url": "https://example.com/fa/",
+      "requested_url": "https://example.com/fa/",
+      "status": 200,
+      "title": "Demo fa",
+      "lang": "fa",
+      "canonicals": [
+        "https://example.com/fa/"
+      ],
+      "alternates": [
+        {
+          "language": "fa",
+          "url": "/fa/"
+        }
+      ],
+      "robots": [
+        "noindex"
+      ],
+      "x_robots_tag": "",
+      "sha256": "f9a490f2ad13d39faee8e7664aa23293682ea9650c1c40b423b5744fe8e3cbcb",
+      "error": null
+    }
+  ],
+  "issues": [
+    {
+      "url": "https://example.com/",
+      "rule": "missing_return_link",
+      "severity": "error",
+      "target": "https://example.com/fa/",
+      "evidence": "Target does not link back to this final URL"
+    },
+    {
+      "url": "https://example.com/fa/",
+      "rule": "alternate_not_absolute",
+      "severity": "error",
+      "target": "/fa/",
+      "evidence": "hreflang target must be an absolute HTTP(S) URL"
+    },
+    {
+      "url": "https://example.com/fa/",
+      "rule": "missing_self_reference",
+      "severity": "error",
+      "target": "",
+      "evidence": "Hreflang set omits this final URL"
+    },
+    {
+      "url": "https://example.com/fa/",
+      "rule": "noindex",
+      "severity": "error",
+      "target": "",
+      "evidence": "Index restriction: noindex,"
+    }
+  ],
+  "summary": {
+    "pages": 2,
+    "errors": 4,
+    "warnings": 0,
+    "incomplete_pages": 0
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "tool_version": "0.1.0",
+  "pages": [
+    {
+      "url": "https://farshidghaffari.net/",
+      "requested_url": "https://farshidghaffari.net/",
+      "status": 200,
+      "title": "Farshid Ghaffari | Web, SEO & AI for Technical Businesses",
+      "lang": "en",
+      "canonicals": [
+        "https://farshidghaffari.net/"
+      ],
+      "alternates": [
+        {
+          "language": "en",
+          "url": "https://farshidghaffari.net/"
+        },
+        {
+          "language": "hy",
+          "url": "https://farshidghaffari.net/hy/"
+        },
+        {
+          "language": "ru",
+          "url": "https://farshidghaffari.net/ru/"
+        },
+        {
+          "language": "de",
+          "url": "https://farshidghaffari.net/de/"
+        },
+        {
+          "language": "fa",
+          "url": "https://farshidghaffari.net/fa/"
+        },
+        {
+          "language": "x-default",
+          "url": "https://farshidghaffari.net/"
+        }
+      ],
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "x_robots_tag": "",
+      "sha256": "dec36109776d9bdf6437f8d87b8a00716a0c2b868db529f3da0094d7bcf143b3",
+      "error": null
+    },
+    {
+      "url": "https://farshidghaffari.net/hy/",
+      "requested_url": "https://farshidghaffari.net/hy/",
+      "status": 200,
+      "title": "Farshid Ghaffari | Կայքեր, SEO և AI տեխնիկական բիզնեսի համար",
+      "lang": "hy",
+      "canonicals": [
+        "https://farshidghaffari.net/hy/"
+      ],
+      "alternates": [
+        {
+          "language": "en",
+          "url": "https://farshidghaffari.net/"
+        },
+        {
+          "language": "hy",
+          "url": "https://farshidghaffari.net/hy/"
+        },
+        {
+          "language": "ru",
+          "url": "https://farshidghaffari.net/ru/"
+        },
+        {
+          "language": "de",
+          "url": "https://farshidghaffari.net/de/"
+        },
+        {
+          "language": "fa",
+          "url": "https://farshidghaffari.net/fa/"
+        },
+        {
+          "language": "x-default",
+          "url": "https://farshidghaffari.net/"
+        }
+      ],
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "x_robots_tag": "",
+      "sha256": "baeac37da5cd06ac3dd3b7b2dff894126974171f894fc532ea1d0a4661a5c561",
+      "error": null
+    },
+    {
+      "url": "https://farshidghaffari.net/ru/",
+      "requested_url": "https://farshidghaffari.net/ru/",
+      "status": 200,
+      "title": "Farshid Ghaffari | Сайты, SEO и ИИ для технического бизнеса",
+      "lang": "ru",
+      "canonicals": [
+        "https://farshidghaffari.net/ru/"
+      ],
+      "alternates": [
+        {
+          "language": "en",
+          "url": "https://farshidghaffari.net/"
+        },
+        {
+          "language": "hy",
+          "url": "https://farshidghaffari.net/hy/"
+        },
+        {
+          "language": "ru",
+          "url": "https://farshidghaffari.net/ru/"
+        },
+        {
+          "language": "de",
+          "url": "https://farshidghaffari.net/de/"
+        },
+        {
+          "language": "fa",
+          "url": "https://farshidghaffari.net/fa/"
+        },
+        {
+          "language": "x-default",
+          "url": "https://farshidghaffari.net/"
+        }
+      ],
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "x_robots_tag": "",
+      "sha256": "8a245a44e55392f0e3e50cb1b979bfd26616a97beea90fc270144bc9872b26d0",
+      "error": null
+    },
+    {
+      "url": "https://farshidghaffari.net/de/",
+      "requested_url": "https://farshidghaffari.net/de/",
+      "status": 200,
+      "title": "Farshid Ghaffari | Web, SEO & KI für technische Unternehmen",
+      "lang": "de",
+      "canonicals": [
+        "https://farshidghaffari.net/de/"
+      ],
+      "alternates": [
+        {
+          "language": "en",
+          "url": "https://farshidghaffari.net/"
+        },
+        {
+          "language": "hy",
+          "url": "https://farshidghaffari.net/hy/"
+        },
+        {
+          "language": "ru",
+          "url": "https://farshidghaffari.net/ru/"
+        },
+        {
+          "language": "de",
+          "url": "https://farshidghaffari.net/de/"
+        },
+        {
+          "language": "fa",
+          "url": "https://farshidghaffari.net/fa/"
+        },
+        {
+          "language": "x-default",
+          "url": "https://farshidghaffari.net/"
+        }
+      ],
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "x_robots_tag": "",
+      "sha256": "f9435c441c2814c0bc2b550d1ab7cfce5299fe5edbd5c27addf8b865db953603",
+      "error": null
+    },
+    {
+      "url": "https://farshidghaffari.net/fa/",
+      "requested_url": "https://farshidghaffari.net/fa/",
+      "status": 200,
+      "title": "فرشید غفاری | طراحی سایت، سئو و هوش مصنوعی برای کسب‌وکار فنی",
+      "lang": "fa",
+      "canonicals": [
+        "https://farshidghaffari.net/fa/"
+      ],
+      "alternates": [
+        {
+          "language": "en",
+          "url": "https://farshidghaffari.net/"
+        },
+        {
+          "language": "hy",
+          "url": "https://farshidghaffari.net/hy/"
+        },
+        {
+          "language": "ru",
+          "url": "https://farshidghaffari.net/ru/"
+        },
+        {
+          "language": "de",
+          "url": "https://farshidghaffari.net/de/"
+        },
+        {
+          "language": "fa",
+          "url": "https://farshidghaffari.net/fa/"
+        },
+        {
+          "language": "x-default",
+          "url": "https://farshidghaffari.net/"
+        }
+      ],
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "x_robots_tag": "",
+      "sha256": "1991cbe85d219a4f8b2549736b22b8c32794c1444c9596fc93aa58cca83ee6be",
+      "error": null
+    }
+  ],
+  "issues": [],
+  "summary": {
+    "pages": 5,
+    "errors": 0,
+    "warnings": 0,
+    "incomplete_pages": 0
+  }
+}

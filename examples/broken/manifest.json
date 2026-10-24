@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://example.com/",
+    "file": "en.html"
+  },
+  {
+    "url": "https://example.com/fa/",
+    "file": "fa.html"
+  }
+]

@@ -1,0 +1,5 @@
+url,rule,severity,target,evidence
+https://example.com/,missing_return_link,error,https://example.com/fa/,Target does not link back to this final URL
+https://example.com/fa/,alternate_not_absolute,error,/fa/,hreflang target must be an absolute HTTP(S) URL
+https://example.com/fa/,missing_self_reference,error,,Hreflang set omits this final URL
+https://example.com/fa/,noindex,error,,"Index restriction: noindex,"
